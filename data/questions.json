@@ -1,0 +1,183 @@
+[
+  {
+    "id": "colors",
+    "question": "Какие цвета есть в радуге?",
+    "type": "checkbox",
+    "answers": [
+      {
+        "id": "red",
+        "text": "Красный",
+        "correct": true
+      },
+      {
+        "id": "orange",
+        "text": "Зеленый",
+        "correct": true
+      },
+      {
+        "id": "yellow",
+        "text": "Синий",
+        "correct": true
+      },
+      {
+        "id": "green",
+        "text": "Белый",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "planets",
+    "question": "Какой газ преобладает в атмосфере Земли?",
+    "type": "radio",
+    "answers": [
+      {
+        "id": "oxygen_1",
+        "text": "Кислород",
+        "correct": false
+      },
+      {
+        "id": "nitrogen_1",
+        "text": "Азот",
+        "correct": true
+      },
+      {
+        "id": "carbon-dioxide",
+        "text": "Углекислый газ",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "animals",
+    "question": "Какие животные являются млекопитающими?",
+    "type": "checkbox",
+    "answers": [
+      {
+        "id": "whale",
+        "text": "Кит",
+        "correct": true
+      },
+      {
+        "id": "shark",
+        "text": "Акула",
+        "correct": false
+      },
+      {
+        "id": "kangaroo",
+        "text": "Кенгуру",
+        "correct": true
+      },
+      {
+        "id": "crocodile",
+        "text": "Крокодил",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "elements",
+    "question": "Какие химические элементы входят в состав воды?",
+    "type": "checkbox",
+    "answers": [
+      { "id": "hydrogen", "text": "Водород", "correct": true },
+      { "id": "oxygen", "text": "Кислород", "correct": true },
+      { "id": "carbon", "text": "Углерод", "correct": false },
+      { "id": "nitrogen", "text": "Азот", "correct": false }
+    ]
+  },
+  {
+    "id": "math",
+    "question": "Чему равен квадрат числа 5?",
+    "type": "radio",
+    "answers": [
+      { "id": "twenty", "text": "20", "correct": false },
+      { "id": "twentyfive", "text": "25", "correct": true },
+      { "id": "thirty", "text": "30", "correct": false }
+    ]
+  },
+  {
+    "id": "capitals",
+    "question": "Какие из этих городов являются столицами стран?",
+    "type": "checkbox",
+    "answers": [
+      { "id": "moscow", "text": "Москва", "correct": true },
+      { "id": "paris", "text": "Париж", "correct": true },
+      { "id": "new-york", "text": "Нью-Йорк", "correct": false },
+      { "id": "beijing", "text": "Пекин", "correct": true }
+    ]
+  },
+  {
+    "id": "music",
+    "question": "Кто написал симфонию № 9 'Ода к радости'?",
+    "type": "radio",
+    "answers": [
+      { "id": "mozart", "text": "Моцарт", "correct": false },
+      { "id": "beethoven", "text": "Бетховен", "correct": true },
+      { "id": "bach", "text": "Бах", "correct": false }
+    ]
+  },
+  {
+    "id": "countries",
+    "question": "Какие страны находятся в Европе?",
+    "type": "checkbox",
+    "answers": [
+      { "id": "germany", "text": "Германия", "correct": true },
+      { "id": "france", "text": "Франция", "correct": true },
+      { "id": "canada", "text": "Канада", "correct": false },
+      { "id": "spain", "text": "Испания", "correct": true }
+    ]
+  },
+  {
+    "id": "planets-order",
+    "question": "Какая планета третья от Солнца?",
+    "type": "radio",
+    "answers": [
+      { "id": "venus", "text": "Венера", "correct": false },
+      { "id": "earth", "text": "Земля", "correct": true },
+      { "id": "mars", "text": "Марс", "correct": false }
+    ]
+  },
+  {
+    "id": "literature",
+    "question": "Кто написал 'Войну и мир'?",
+    "type": "radio",
+    "answers": [
+      { "id": "tolstoy", "text": "Лев Толстой", "correct": true },
+      { "id": "dostoevsky", "text": "Федор Достоевский", "correct": false },
+      { "id": "pushkin", "text": "Александр Пушкин", "correct": false }
+    ]
+  },
+  {
+    "id": "human-body",
+    "question": "Какие органы входят в пищеварительную систему человека?",
+    "type": "checkbox",
+    "answers": [
+      { "id": "stomach", "text": "Желудок", "correct": true },
+      { "id": "heart", "text": "Сердце", "correct": false },
+      { "id": "intestines", "text": "Кишечник", "correct": true },
+      { "id": "lungs", "text": "Лёгкие", "correct": false }
+    ]
+  },
+  {
+    "id": "oceans",
+    "question": "Какой океан самый большой?",
+    "type": "radio",
+    "answers": [
+      { "id": "atlantic", "text": "Атлантический", "correct": false },
+      { "id": "pacific", "text": "Тихий", "correct": true },
+      { "id": "indian", "text": "Индийский", "correct": false }
+    ]
+  },
+  {
+    "id": "energy",
+    "question": "Какие виды энергии считаются возобновляемыми?",
+    "type": "checkbox",
+    "answers": [
+      { "id": "solar", "text": "Солнечная", "correct": true },
+      { "id": "wind", "text": "Ветровая", "correct": true },
+      { "id": "coal", "text": "Угольная", "correct": false },
+      { "id": "hydro", "text": "Гидроэнергия", "correct": true }
+    ]
+  }
+]
